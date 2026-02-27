@@ -11,6 +11,7 @@
   </ul>
 
   <a href="https://hyeokjaes-games.itch.io/ghost-murder">게임 링크 (프로토타입)</a>
+  <a href="https://youtu.be/lO5AhHVK-CI">시현영상</a>
 </p>
 <hr/>
 <p>
